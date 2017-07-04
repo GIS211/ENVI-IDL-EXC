@@ -1,0 +1,6 @@
+myprocedure.pro （最新第一个6S程序）
+my_ETMprocedure.pro（拆分后的，ETM去条带后的，大气校正处理程序）
+my_MTLprocedure.pro（拆分后的，MTL.TXT结尾的文件校正处理程序）
+使用方法：
+将ETM+去条带后的数据放在一个文件夹下，对应的有MTL.TXT为其获取头文件信息
+将MTL数据放在一个文件夹下
